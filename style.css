@@ -2,3 +2,7 @@
     color: #eee;
     background: #666;
 }
+
+.bold {
+    font-weight: 900;
+}
